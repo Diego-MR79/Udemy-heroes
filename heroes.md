@@ -6,3 +6,4 @@
 * WonderWoman
 * Linterna Verde
 * Robin
+* Volvan Negro
