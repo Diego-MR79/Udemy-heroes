@@ -1,3 +1,3 @@
-##Motivo
+# Notas
 
-Este repositorio sirve para cosas
+Este proyecto se encarga de manejar los planes de la liga de la justicia
