@@ -1,1 +1,5 @@
-12:47 26/03/2024
+#Misiones
+
+1. Acabar con el plan de Lex
+2. Crear la liga de la justicia
+3. Buscar nuevos miembros 
